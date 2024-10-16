@@ -30,6 +30,7 @@
 ||github.io
 ||githubusercontent.com
 ||githubassets.com
+
 ||pydev.org
 ||eclipse.org
 ||sourceforge.net
@@ -49,3 +50,6 @@
 ||googleusercontent.com
 
 ||sm.ms
+||hostloc.com
+
+@@||linux.do
